@@ -1,0 +1,12 @@
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\bin\Debug\netcoreapp3.1\StaticConstructor_Struct.exe
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\bin\Debug\netcoreapp3.1\StaticConstructor_Struct.deps.json
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\bin\Debug\netcoreapp3.1\StaticConstructor_Struct.runtimeconfig.json
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\bin\Debug\netcoreapp3.1\StaticConstructor_Struct.runtimeconfig.dev.json
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\bin\Debug\netcoreapp3.1\StaticConstructor_Struct.dll
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\bin\Debug\netcoreapp3.1\StaticConstructor_Struct.pdb
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\obj\Debug\netcoreapp3.1\StaticConstructor_Struct.csproj.CoreCompileInputs.cache
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\obj\Debug\netcoreapp3.1\StaticConstructor_Struct.AssemblyInfoInputs.cache
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\obj\Debug\netcoreapp3.1\StaticConstructor_Struct.AssemblyInfo.cs
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\obj\Debug\netcoreapp3.1\StaticConstructor_Struct.dll
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\obj\Debug\netcoreapp3.1\StaticConstructor_Struct.pdb
+C:\Users\mehed\source\repos\Delegates\StaticConstructor_Struct\obj\Debug\netcoreapp3.1\StaticConstructor_Struct.genruntimeconfig.cache

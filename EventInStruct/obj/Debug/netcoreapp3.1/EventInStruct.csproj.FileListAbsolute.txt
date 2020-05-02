@@ -1,0 +1,13 @@
+C:\Users\mehed\source\repos\Delegates\EventInStruct\bin\Debug\netcoreapp3.1\EventInStruct.exe
+C:\Users\mehed\source\repos\Delegates\EventInStruct\bin\Debug\netcoreapp3.1\EventInStruct.deps.json
+C:\Users\mehed\source\repos\Delegates\EventInStruct\bin\Debug\netcoreapp3.1\EventInStruct.runtimeconfig.json
+C:\Users\mehed\source\repos\Delegates\EventInStruct\bin\Debug\netcoreapp3.1\EventInStruct.runtimeconfig.dev.json
+C:\Users\mehed\source\repos\Delegates\EventInStruct\bin\Debug\netcoreapp3.1\EventInStruct.dll
+C:\Users\mehed\source\repos\Delegates\EventInStruct\bin\Debug\netcoreapp3.1\EventInStruct.pdb
+C:\Users\mehed\source\repos\Delegates\EventInStruct\obj\Debug\netcoreapp3.1\EventInStruct.csprojAssemblyReference.cache
+C:\Users\mehed\source\repos\Delegates\EventInStruct\obj\Debug\netcoreapp3.1\EventInStruct.csproj.CoreCompileInputs.cache
+C:\Users\mehed\source\repos\Delegates\EventInStruct\obj\Debug\netcoreapp3.1\EventInStruct.AssemblyInfoInputs.cache
+C:\Users\mehed\source\repos\Delegates\EventInStruct\obj\Debug\netcoreapp3.1\EventInStruct.AssemblyInfo.cs
+C:\Users\mehed\source\repos\Delegates\EventInStruct\obj\Debug\netcoreapp3.1\EventInStruct.dll
+C:\Users\mehed\source\repos\Delegates\EventInStruct\obj\Debug\netcoreapp3.1\EventInStruct.pdb
+C:\Users\mehed\source\repos\Delegates\EventInStruct\obj\Debug\netcoreapp3.1\EventInStruct.genruntimeconfig.cache

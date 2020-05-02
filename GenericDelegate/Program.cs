@@ -6,7 +6,7 @@ namespace GenericDelegate
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("This will be updated later");
         }
     }
 }

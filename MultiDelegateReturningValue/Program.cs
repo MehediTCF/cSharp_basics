@@ -9,6 +9,7 @@ namespace MultiDelegateReturningValue
         {
             myDelegate del1 = ClassA.MethodA;
             myDelegate del2 = ClassB.MethodB;
+            // last one to add will be called
             myDelegate del = del2 + del1;
             //last assigning target value will be called
             Console.WriteLine(del());
