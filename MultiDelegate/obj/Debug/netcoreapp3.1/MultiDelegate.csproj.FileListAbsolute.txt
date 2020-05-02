@@ -1,0 +1,13 @@
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.exe
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.deps.json
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.runtimeconfig.json
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.runtimeconfig.dev.json
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.dll
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.pdb
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.csprojAssemblyReference.cache
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.csproj.CoreCompileInputs.cache
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.AssemblyInfoInputs.cache
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.AssemblyInfo.cs
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.dll
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.pdb
+C:\Users\mehed\source\repos\Delegates\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.genruntimeconfig.cache

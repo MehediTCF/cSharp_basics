@@ -1,0 +1,13 @@
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\bin\Debug\netcoreapp3.1\MultiDelegateReturningValue.exe
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\bin\Debug\netcoreapp3.1\MultiDelegateReturningValue.deps.json
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\bin\Debug\netcoreapp3.1\MultiDelegateReturningValue.runtimeconfig.json
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\bin\Debug\netcoreapp3.1\MultiDelegateReturningValue.runtimeconfig.dev.json
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\bin\Debug\netcoreapp3.1\MultiDelegateReturningValue.dll
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\bin\Debug\netcoreapp3.1\MultiDelegateReturningValue.pdb
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\obj\Debug\netcoreapp3.1\MultiDelegateReturningValue.csprojAssemblyReference.cache
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\obj\Debug\netcoreapp3.1\MultiDelegateReturningValue.csproj.CoreCompileInputs.cache
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\obj\Debug\netcoreapp3.1\MultiDelegateReturningValue.AssemblyInfoInputs.cache
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\obj\Debug\netcoreapp3.1\MultiDelegateReturningValue.AssemblyInfo.cs
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\obj\Debug\netcoreapp3.1\MultiDelegateReturningValue.dll
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\obj\Debug\netcoreapp3.1\MultiDelegateReturningValue.pdb
+C:\Users\mehed\source\repos\Delegates\MultiDelegateReturningValue\obj\Debug\netcoreapp3.1\MultiDelegateReturningValue.genruntimeconfig.cache
