@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehed\\source\\repos\\Delegates\\Collections\\Collections.csproj",
-      "projectName": "Collections",
-      "projectPath": "C:\\Users\\mehed\\source\\repos\\Delegates\\Collections\\Collections.csproj",
+      "projectUniqueName": "C:\\Users\\mehed\\source\\repos\\Delegates\\Collections\\Array List.csproj",
+      "projectName": "Array List",
+      "projectPath": "C:\\Users\\mehed\\source\\repos\\Delegates\\Collections\\Array List.csproj",
       "packagesPath": "C:\\Users\\mehed\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mehed\\source\\repos\\Delegates\\Collections\\obj\\",
       "projectStyle": "PackageReference",

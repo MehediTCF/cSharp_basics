@@ -1,0 +1,12 @@
+C:\Users\mehed\source\repos\Delegates\Value Tuple\bin\Debug\netcoreapp3.1\Value Tuple.exe
+C:\Users\mehed\source\repos\Delegates\Value Tuple\obj\Debug\netcoreapp3.1\Value Tuple.AssemblyInfoInputs.cache
+C:\Users\mehed\source\repos\Delegates\Value Tuple\obj\Debug\netcoreapp3.1\Value Tuple.AssemblyInfo.cs
+C:\Users\mehed\source\repos\Delegates\Value Tuple\bin\Debug\netcoreapp3.1\Value Tuple.deps.json
+C:\Users\mehed\source\repos\Delegates\Value Tuple\bin\Debug\netcoreapp3.1\Value Tuple.runtimeconfig.json
+C:\Users\mehed\source\repos\Delegates\Value Tuple\bin\Debug\netcoreapp3.1\Value Tuple.runtimeconfig.dev.json
+C:\Users\mehed\source\repos\Delegates\Value Tuple\bin\Debug\netcoreapp3.1\Value Tuple.dll
+C:\Users\mehed\source\repos\Delegates\Value Tuple\bin\Debug\netcoreapp3.1\Value Tuple.pdb
+C:\Users\mehed\source\repos\Delegates\Value Tuple\obj\Debug\netcoreapp3.1\Value Tuple.csproj.CoreCompileInputs.cache
+C:\Users\mehed\source\repos\Delegates\Value Tuple\obj\Debug\netcoreapp3.1\Value Tuple.dll
+C:\Users\mehed\source\repos\Delegates\Value Tuple\obj\Debug\netcoreapp3.1\Value Tuple.pdb
+C:\Users\mehed\source\repos\Delegates\Value Tuple\obj\Debug\netcoreapp3.1\Value Tuple.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\mehed\source\repos\Delegates\Collections\bin\Debug\netcoreapp3.1\ArrayList.exe
+C:\Users\mehed\source\repos\Delegates\Collections\bin\Debug\netcoreapp3.1\ArrayList.deps.json
+C:\Users\mehed\source\repos\Delegates\Collections\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.json
+C:\Users\mehed\source\repos\Delegates\Collections\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.dev.json
+C:\Users\mehed\source\repos\Delegates\Collections\bin\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\mehed\source\repos\Delegates\Collections\bin\Debug\netcoreapp3.1\ArrayList.pdb
+C:\Users\mehed\source\repos\Delegates\Collections\obj\Debug\netcoreapp3.1\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\mehed\source\repos\Delegates\Collections\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfoInputs.cache
+C:\Users\mehed\source\repos\Delegates\Collections\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfo.cs
+C:\Users\mehed\source\repos\Delegates\Collections\obj\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\mehed\source\repos\Delegates\Collections\obj\Debug\netcoreapp3.1\ArrayList.pdb
+C:\Users\mehed\source\repos\Delegates\Collections\obj\Debug\netcoreapp3.1\ArrayList.genruntimeconfig.cache

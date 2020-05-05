@@ -1,0 +1,13 @@
+C:\Users\mehed\source\repos\Delegates\TupleBasics\bin\Debug\netcoreapp3.1\TupleBasics.exe
+C:\Users\mehed\source\repos\Delegates\TupleBasics\bin\Debug\netcoreapp3.1\TupleBasics.deps.json
+C:\Users\mehed\source\repos\Delegates\TupleBasics\bin\Debug\netcoreapp3.1\TupleBasics.runtimeconfig.json
+C:\Users\mehed\source\repos\Delegates\TupleBasics\bin\Debug\netcoreapp3.1\TupleBasics.runtimeconfig.dev.json
+C:\Users\mehed\source\repos\Delegates\TupleBasics\bin\Debug\netcoreapp3.1\TupleBasics.dll
+C:\Users\mehed\source\repos\Delegates\TupleBasics\bin\Debug\netcoreapp3.1\TupleBasics.pdb
+C:\Users\mehed\source\repos\Delegates\TupleBasics\obj\Debug\netcoreapp3.1\TupleBasics.csprojAssemblyReference.cache
+C:\Users\mehed\source\repos\Delegates\TupleBasics\obj\Debug\netcoreapp3.1\TupleBasics.csproj.CoreCompileInputs.cache
+C:\Users\mehed\source\repos\Delegates\TupleBasics\obj\Debug\netcoreapp3.1\TupleBasics.AssemblyInfoInputs.cache
+C:\Users\mehed\source\repos\Delegates\TupleBasics\obj\Debug\netcoreapp3.1\TupleBasics.AssemblyInfo.cs
+C:\Users\mehed\source\repos\Delegates\TupleBasics\obj\Debug\netcoreapp3.1\TupleBasics.dll
+C:\Users\mehed\source\repos\Delegates\TupleBasics\obj\Debug\netcoreapp3.1\TupleBasics.pdb
+C:\Users\mehed\source\repos\Delegates\TupleBasics\obj\Debug\netcoreapp3.1\TupleBasics.genruntimeconfig.cache
