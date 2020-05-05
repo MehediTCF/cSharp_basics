@@ -1,0 +1,12 @@
+C:\Users\mehed\source\repos\Delegates\Stack Basics\bin\Debug\netcoreapp3.1\Stack Basics.exe
+C:\Users\mehed\source\repos\Delegates\Stack Basics\bin\Debug\netcoreapp3.1\Stack Basics.deps.json
+C:\Users\mehed\source\repos\Delegates\Stack Basics\bin\Debug\netcoreapp3.1\Stack Basics.runtimeconfig.json
+C:\Users\mehed\source\repos\Delegates\Stack Basics\bin\Debug\netcoreapp3.1\Stack Basics.runtimeconfig.dev.json
+C:\Users\mehed\source\repos\Delegates\Stack Basics\bin\Debug\netcoreapp3.1\Stack Basics.dll
+C:\Users\mehed\source\repos\Delegates\Stack Basics\bin\Debug\netcoreapp3.1\Stack Basics.pdb
+C:\Users\mehed\source\repos\Delegates\Stack Basics\obj\Debug\netcoreapp3.1\Stack Basics.csproj.CoreCompileInputs.cache
+C:\Users\mehed\source\repos\Delegates\Stack Basics\obj\Debug\netcoreapp3.1\Stack Basics.AssemblyInfoInputs.cache
+C:\Users\mehed\source\repos\Delegates\Stack Basics\obj\Debug\netcoreapp3.1\Stack Basics.AssemblyInfo.cs
+C:\Users\mehed\source\repos\Delegates\Stack Basics\obj\Debug\netcoreapp3.1\Stack Basics.dll
+C:\Users\mehed\source\repos\Delegates\Stack Basics\obj\Debug\netcoreapp3.1\Stack Basics.pdb
+C:\Users\mehed\source\repos\Delegates\Stack Basics\obj\Debug\netcoreapp3.1\Stack Basics.genruntimeconfig.cache

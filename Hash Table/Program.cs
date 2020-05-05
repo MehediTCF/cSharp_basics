@@ -41,6 +41,11 @@ namespace Hash_Table
                 Console.WriteLine("Key: {0} Value: {1}", key, ht1[key]);
 
             }
+            foreach (var value in ht.Values)
+                Console.WriteLine("Value:{0}", value);
+
+            Console.WriteLine(ht1.Contains(1));
+            ht.Clear();
 
         }
     }
