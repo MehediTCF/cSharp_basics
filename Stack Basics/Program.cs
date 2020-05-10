@@ -20,7 +20,6 @@ namespace Stack_Basics
             Console.WriteLine(stack.Peek());
             Console.WriteLine(stack.Pop());
             //Queue
-            Console.WriteLine("Queue");
             Queue queue = new Queue();
             queue.Enqueue(1);
             queue.Enqueue(2);
@@ -33,7 +32,10 @@ namespace Stack_Basics
                 Console.WriteLine(it);
             }
             //or
-
+            foreach(var i in queue.ToArray())
+            {
+                Console.WriteLine(i);
+            }
 
 
         }

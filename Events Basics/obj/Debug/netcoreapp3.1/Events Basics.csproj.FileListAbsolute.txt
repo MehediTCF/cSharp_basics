@@ -1,0 +1,13 @@
+C:\Users\mehed\source\repos\Delegates\Events Basics\bin\Debug\netcoreapp3.1\Events Basics.exe
+C:\Users\mehed\source\repos\Delegates\Events Basics\bin\Debug\netcoreapp3.1\Events Basics.deps.json
+C:\Users\mehed\source\repos\Delegates\Events Basics\bin\Debug\netcoreapp3.1\Events Basics.runtimeconfig.json
+C:\Users\mehed\source\repos\Delegates\Events Basics\bin\Debug\netcoreapp3.1\Events Basics.runtimeconfig.dev.json
+C:\Users\mehed\source\repos\Delegates\Events Basics\bin\Debug\netcoreapp3.1\Events Basics.dll
+C:\Users\mehed\source\repos\Delegates\Events Basics\bin\Debug\netcoreapp3.1\Events Basics.pdb
+C:\Users\mehed\source\repos\Delegates\Events Basics\obj\Debug\netcoreapp3.1\Events Basics.csprojAssemblyReference.cache
+C:\Users\mehed\source\repos\Delegates\Events Basics\obj\Debug\netcoreapp3.1\Events Basics.csproj.CoreCompileInputs.cache
+C:\Users\mehed\source\repos\Delegates\Events Basics\obj\Debug\netcoreapp3.1\Events Basics.AssemblyInfoInputs.cache
+C:\Users\mehed\source\repos\Delegates\Events Basics\obj\Debug\netcoreapp3.1\Events Basics.AssemblyInfo.cs
+C:\Users\mehed\source\repos\Delegates\Events Basics\obj\Debug\netcoreapp3.1\Events Basics.dll
+C:\Users\mehed\source\repos\Delegates\Events Basics\obj\Debug\netcoreapp3.1\Events Basics.pdb
+C:\Users\mehed\source\repos\Delegates\Events Basics\obj\Debug\netcoreapp3.1\Events Basics.genruntimeconfig.cache
